@@ -1,0 +1,14 @@
+/*
+SELECTOR{
+    PROPERTY: VALUE;
+}
+*/
+
+header{
+    background-color:yellowgreen;
+}
+
+body{
+    background-color:whitesmoke;
+    text-align:center;
+}
